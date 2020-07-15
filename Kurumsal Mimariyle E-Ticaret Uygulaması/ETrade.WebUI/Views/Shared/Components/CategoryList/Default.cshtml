@@ -1,0 +1,10 @@
+﻿@model CategoryListViewModel
+
+
+
+<nav class="nav d-flex justify-content-between">
+    @foreach (var category in Model.Categories)
+    {
+        <a asp-controller="Product" asp-action="List" asp-route-category="@category.Name.ToLower()" class="p-2 "  style=" color:navy;"> @category.Name  </a>
+    }
+</nav>

@@ -1,0 +1,71 @@
+﻿@model ETrade.WebUI.Models.CategoryModel
+@{ ViewData["Title"] = "EditCategory"; }
+
+<h1>Kategoriler</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="Admin" asp-action="EditCategory" method="post">
+            <input type="hidden" name="categoryId" value="@Model.Id" />
+            <div class="form-group row">
+                <label asp-for="Name" class="col-md-4 col-form-label "></label>
+                <div class="col-md-8">
+                    <input asp-for="Name" value="@Model.Name" class="form-control " />
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-md-10 offset-md-4">
+                    <button type="submit" class="btn " style="background-color:navy; color:white">Kaydet</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+    <div class="col-md-8">
+        @if (Model.Products.Count() > 0)
+        {
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td style="width:30px;">Id</td>
+            <td style="width:100px;">Resim</td>
+            <td>Ürün Adı</td>
+            <td style="width:12px;">Fiyat</td>
+            <td style="width:250px;"></td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Products)
+        {
+<tr>
+    <td>@item.Id</td>
+    <td>
+        <img src="~/img/@item.ImageUrl" width="80" />
+    </td>
+    <td>@item.Name</td>
+    <td>@item.Price</td>
+    <td>
+        <a class="btn btn-info btn-sm mr-2"  href="/admin/products/@item.Id">Ürünün kategorilerini düzenle</a>
+        
+        <form   action="/admin/deletefromcategory" method="post" >
+            <input type="hidden" name="productId" value="@item.Id" />
+            <input type="hidden" name="categoryId" value="@Model.Id" />
+            <button type="submit" class="btn btn-danger btn-sm" style="position:relative; top:10px;">Ürünü bu kategoriden sil</button>
+        </form>
+    </td>
+</tr>}
+
+    </tbody>
+
+</table> }
+            else
+            {
+<div class="alert alert-warning">
+    <h4>No Products</h4>
+</div>}
+    </div>
+</div>
+
+

@@ -1,0 +1,102 @@
+﻿<div class="row">
+    <div class="container">
+
+        <nav class="navbar navbar-expand-lg navbar-dark text-align-center" style="background-color:white">
+            <div class="container">
+                <a class="navbar-brand text-center  " asp-controller="Home" asp-action="Index" style="color:darkred; font-family:'Ink Free' ">E-Trade <br /> Company</a>
+
+
+                <ul class="navbar-nav mr-auto">
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+
+                        @if (User.IsInRole("admin"))
+                         {
+                            <li class="nav-item">
+                                <a asp-controller="Admin" asp-action="ProductList" class="nav-link" style=" color:navy;">Ürünler</a>
+                            </li>
+                            <li class="nav-item">
+                                <a asp-controller="Admin" asp-action="CategoryList" class="nav-link " style=" color:navy;">Kategoriler</a>
+                            </li>
+                           <li class="nav-item">
+                              <a asp-controller="Order" asp-action="AdminOrders" class="nav-link " style=" color:navy;">Siparişler</a>
+                           </li>}}
+
+                </ul>
+
+                <ul class="navbar-nav ">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        @if (!User.IsInRole("admin"))
+                        {
+                            <li class="nav-item ">
+                                <a asp-controller="Cart" asp-action="Index" class="nav-link " style=" color:navy;"><i class="fas fa-shopping-cart"></i>Sepetim</a>
+                             </li>
+
+                        }
+                        
+                        <li class="nav-item ">
+                            <div class="dropdown ">
+                                <button class="btn  dropdown-toggle " style="border-color:navy; color:navy " type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <i class="fas fa-user"></i>
+                                    Hoş geldin @User.Identity.Name
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" style="padding-left:10px; color:navy;">
+
+                                    @if (!User.IsInRole("admin"))
+                                    {
+                                       <a asp-controller="User" asp-action="MyAccount" class="dropdown-item" style=" color:navy;">Hesabım </a>
+                                       <a asp-controller="Order" asp-action="GetOrders" class="dropdown-item" style=" color:navy;">Siparişlerim</a>}
+
+                                    <a asp-controller="Account" asp-action="Logout" class="dropdown-item" style=" color:navy;">Çıkış <i class="fas fa-sign-out-alt"></i> </a>
+
+                                </div>
+                            </div>
+                        </li> }
+                                    else
+                                    {
+                        <li>
+                            <div class="dropdown">
+                                <button class="btn  dropdown-toggle" style=" color: navy;" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <i class="fas fa-user"></i>
+                                    GİRİŞ YAP
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" style="padding-left:10px;  color:navy;">
+                                    <a asp-controller="Account" asp-action="Login" class="dropdown-item" style=" color:navy;">GİRİŞ YAP</a>
+                                    <a asp-controller="Account" asp-action="Register" class="dropdown-item" style=" color:navy;">ÜYE OL</a>
+
+                                </div>
+                            </div>
+                        </li>}
+
+                </ul>
+            </div>
+        </nav>
+
+
+    </div>
+    <div class="container">
+        <div class="nav-scroller py-1 mb-2 ">
+
+            @await Component.InvokeAsync("CategoryList")
+
+        </div>
+    </div>
+</div>
+
+<script>
+    function openCity(evt, cityName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+</script>

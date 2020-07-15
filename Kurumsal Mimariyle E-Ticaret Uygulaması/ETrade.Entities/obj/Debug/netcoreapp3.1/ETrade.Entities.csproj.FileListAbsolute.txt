@@ -1,0 +1,72 @@
+C:\Users\Furkan\source\repos\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.deps.json
+C:\Users\Furkan\source\repos\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\source\repos\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\source\repos\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\source\repos\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\source\repos\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.deps.json
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.deps.json
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.deps.json
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.deps.json
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.deps.json
+C:\Users\Furkan\Desktop\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.deps.json
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.deps.json
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Entities\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Entities\obj\Debug\netcoreapp3.1\ETrade.Entities.pdb

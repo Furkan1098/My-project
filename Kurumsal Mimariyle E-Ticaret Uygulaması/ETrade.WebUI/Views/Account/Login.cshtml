@@ -1,0 +1,64 @@
+﻿@model ETrade.WebUI.Models.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+
+@section Scripts {
+    <script src="~/modules/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/modules/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
+}
+
+
+
+    
+    <div class="row" >
+        <div class="col-md-6" style="position: relative; margin: auto;">
+            <hr />
+            <div class="col-md-7 offset-md-4">
+                <a asp-controller="Account" asp-action="Login" style=" color: navy; font-weight: bold;">Giriş Yap</a>
+                <a> | </a>
+                <a asp-controller="Account" asp-action="Register" style=" color:navy;font-weight: bold;"> Üye Ol</a>
+            </div>
+            <hr />
+
+            @if (ViewBag.ErrorMessage != null)
+            {
+                <div class="text-danger">@ViewBag.ErrorMessage</div>}
+
+            <form asp-controller="Account" asp-action="Login" method="post">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <input type="hidden" name="ReturnUrl" value="@Model.ReturnUrl" />
+                <div class="form-group row">
+                    <label asp-for="Email" class="col-md-2 col-form-label"></label>
+                    <div class="col-md-10">
+                        <input asp-for="Email" value="@Model.Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <label asp-for="Password" class="col-md-2 col-form-label"></label>
+                    <div class="col-md-10">
+                        <input asp-for="Password" value="@Model.Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-md-7 offset-md-5">
+                        <button type="submit" class="btn" style="background-color:navy; color:white;">GİRİŞ YAP</button>
+                    </div>
+                </div>
+
+            </form>
+            <div >
+                <div class="col-md-6 offset-md-4">
+                    <a asp-controller="Account" asp-action="ForgotPassword" style="text-decoration: underline; color:navy;"><i class="fas fa-fish"></i> Şifremi Unuttum</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+

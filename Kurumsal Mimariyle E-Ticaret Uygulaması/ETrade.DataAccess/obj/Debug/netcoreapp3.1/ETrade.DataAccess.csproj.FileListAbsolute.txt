@@ -1,0 +1,120 @@
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.deps.json
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.json
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.dev.json
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CopyComplete
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\source\repos\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.deps.json
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.json
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CopyComplete
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.deps.json
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.json
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CopyComplete
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.deps.json
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.json
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CopyComplete
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.deps.json
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.json
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CopyComplete
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.deps.json
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.json
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CopyComplete
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.deps.json
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.json
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CopyComplete
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.deps.json
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.json
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.csproj.CopyComplete
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.DataAccess\obj\Debug\netcoreapp3.1\ETrade.DataAccess.genruntimeconfig.cache

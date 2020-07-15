@@ -1,0 +1,112 @@
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.deps.json
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CopyComplete
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\source\repos\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.deps.json
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CopyComplete
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\E-Trade projesi\40-Videolar bitti\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.deps.json
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CopyComplete
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\Büyük değişiklik\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.deps.json
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CopyComplete
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\ETrade düzenleme dosyası\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.deps.json
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CopyComplete
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\46-pagination denemesi\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.deps.json
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CopyComplete
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\ETrade\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.deps.json
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CopyComplete
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.deps.json
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Bussiness.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.DataAccess.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\bin\Debug\netcoreapp3.1\ETrade.Entities.pdb
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.csproj.CopyComplete
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.dll
+C:\Users\Furkan\Desktop\ETrade Güncelleme\51-navbar düzeltildi\ETrade Çalışma dosyası\ETrade.Bussiness\obj\Debug\netcoreapp3.1\ETrade.Bussiness.pdb

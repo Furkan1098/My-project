@@ -1,0 +1,17 @@
+﻿@model Product
+
+    <div class="col-md-4 mt-4">
+        <div class="card" style="height:350px;">
+                <div class="d-flex justify-content-center " style="padding:5px 5px 5px 5px; height:200px;">
+                    <img class="card-img-top " src="~/img/@Model.ImageUrl" alt="@Model.Name" >
+                </div>
+                <div class="card-body">
+                    <a asp-controller="Product" asp-action="Details" asp-route-id="@Model.Id"  class="card-title stretched-link" style="color:navy; text-decoration:none;">
+                         @Model.Name
+                    </a>
+                        <p class="card-text">@Model.Price TL</p>
+                </div>
+        </div>
+
+        
+    </div>

@@ -1,0 +1,18 @@
+﻿@model ProductListViewModel
+
+<div class="row">
+    
+    <div class="col-md-12">
+        
+        <partial name="_slider" />
+        <div class="row">
+            @foreach (var product in Model.Products)
+            {
+                <partial name="_product" for="@product" />
+            }
+        </div>
+        
+    </div>
+</div>
+
+

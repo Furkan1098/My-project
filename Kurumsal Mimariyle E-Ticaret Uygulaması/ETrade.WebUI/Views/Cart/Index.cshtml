@@ -1,0 +1,122 @@
+﻿@model ETrade.WebUI.Models.CartModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Alışveriş Sepeti</h1>
+
+<div class="row mt-5">
+    <div class="col-md-7">
+        <div class="text-left">
+            <h4>Ürünler</h4>
+        </div>
+
+        @if (Model.CartItems.Count > 0)
+        {
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Ürün adı</th>
+                        <th>Fiyat</th>
+                        <th>Ürün Adedi</th>
+                        <th>Toplam</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.CartItems)
+                    {
+                        <tr>
+                            <td>
+                                <img src="~/img/@item.ImageUrl" width="80" />
+                            </td>
+                            <td>@item.Name</td>
+                            <td>@item.Price.ToString("c")</td>
+                            <td >
+                                
+
+                                    <form asp-controller="Cart" asp-action="DecreaseQunatity" method="post" style="display:inline;">
+
+                                        <input type="hidden" name="productId" value="@item.ProductId" />
+                                        <input type="hidden" name="quantity" value="1" />
+                                        <button type="submit" class="btn btn-sm  " style=" border-color:navy; color:navy;  "><i class="fas fa-minus"></i></button>
+
+                                    </form>
+                                    
+
+                                        @item.Quantity Adet
+                               
+
+
+                                    <form asp-controller="Cart" asp-action="IncreaseQunatity" method="post" style="display:inline;">
+
+                                        <input type="hidden" name="productId" value="@item.ProductId" />
+                                        <input type="hidden" name="quantity" value="1" />
+                                        <button type="submit" class="btn btn-sm  " style=" border-color:navy; color:navy; "><i class="fas fa-plus"></i></button>
+
+                                    </form>
+
+                              
+                                    
+
+
+                            </td>
+                            <td>@((item.Quantity * item.Price).ToString("c"))</td>
+                            <td>
+                                <form asp-controller="Cart" asp-action="DeleteFromCart" method="post">
+                                    <input type="hidden" name="productId" value="@item.ProductId" />
+                                    <button type="submit" class="btn btn-danger btn-sm">
+                                        <i class="fa fa-times fa-fw"></i>
+                                    </button>
+                                </form>
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+        }
+        else
+        {
+            <div class="alert alert-warning">
+                Sepette ürün bulunamadı
+            </div>
+        }
+    </div>
+    <div class="col-md-5">
+
+        @if (Model.CartItems.Count > 0)
+        {
+            <div class="text-left">
+                <h4>Sepeti Özeti</h4>
+            </div>
+            <table class="table">
+                <tbody>
+                    <tr>
+                        <th>Sepet Toplamı</th>
+                        <td>@Model.TotalPrice().ToString("c")</td>
+                    </tr>
+                    <tr>
+                        <th>Kargo</th>
+                        <td>Ücretsiz</td>
+                    </tr>
+                    <tr>
+                        <th>Toplam</th>
+                        <td>@Model.TotalPrice().ToString("c")</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="text-center">
+                <a href="/" class="btn " style="background-color:navy; color:white;">
+                    <i class="fa fa-arrow-circle-left fa-fw"></i>Alışverişe devam et
+                </a>
+                <a href="/checkout" class="btn " style="background-color:navy; color:white;">
+                    Alışverişi tamamla <i class="fa fa-arrow-circle-right fa-fw"></i>
+                </a>
+            </div>
+
+        }
+    </div>
+</div>
